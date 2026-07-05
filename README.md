@@ -49,7 +49,7 @@ Mansurov Akbar
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 📬 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akbar-mansurov-917005313/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akbarmans/)  
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/akbarmansurov)  
 [![Email](https://img.shields.io/badge/Email-Hello-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mansurovakbar100808@gmail.com)
 
