@@ -1,7 +1,7 @@
 Mansurov Akbar 
 
 
-> Freshman @**Inha University in Tashkent**  
+> Sophomore @**Inha University in Tashkent**  
 > Turning coffee into code since 2020 ☕
 
 ### 🛠 Tech Stack
